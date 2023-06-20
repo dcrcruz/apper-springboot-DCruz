@@ -1,0 +1,14 @@
+Derick Carlo R Cruz
+
+Quiz 1
+
+1 - Java Enterprise Edition
+2 - Boilerplate codes are repetitive parts of code
+3 - Spring Framework
+4 - Pivotal Software
+5 - https://start.spring.io/
+6 - keyword is 'standalone', meaning it doesn't need web servers, and it is easy to create production grade applications
+7 - 9:
+ - Dependency Injection allows objects or components to be created and wired together in a loosely coupled manner.
+ Instead of a class creating its own dependencies, the dependencies are injected into the class from an external source.
+10 - mvn clean spring-boot:run
