@@ -1,0 +1,18 @@
+Spring Boot
+
+Spring Framework
+- response to complexity of Java Enterprise Edition
+- reduce boilerplate codes
+
+Spring Boot
+- auto config =
+    -- automagically
+    -- attempts to auto config Spring based on dependencies
+- standalone
+    -- no need for web servers
+    -- easy to create production grade apps
+- opinionated
+    -- chosen ways by default
+    -- favors convention over config
+
+Dependency Injection
