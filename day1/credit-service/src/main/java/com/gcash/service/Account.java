@@ -10,7 +10,7 @@ public class Account {
         return;
     }
 
-    public Double getBalance(Double newBalance) {
+    public Double getBalance() {
         return newBalance;
     }
 }

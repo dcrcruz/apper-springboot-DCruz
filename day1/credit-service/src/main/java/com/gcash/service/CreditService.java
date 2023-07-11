@@ -28,6 +28,6 @@ public class CreditService {
     }
 
     public List<Account> getAllAccounts() {
-        return;
+        return getAllAccounts();
     }
 }
